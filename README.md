@@ -2,4 +2,6 @@
 
 Author:xinliangzhong@foxmail.com
 
-### comming soon...
+### ~~coming soon~~
+
+### I am sorry that this project may update slowly.

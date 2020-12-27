@@ -1,4 +1,4 @@
-## Error State Extend Kalman Filter All in One, from Theory to Practice.
+## Error State Kalman Filter All in One, from Theory to Practice.
 
 Author:xinliangzhong@foxmail.com
 
